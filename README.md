@@ -1,6 +1,4 @@
 
-⸻
-
 🎛 VRONG CLIPPER
 
 FL-style soft clipper VST3/AU with real-time waveform shaving visualization
